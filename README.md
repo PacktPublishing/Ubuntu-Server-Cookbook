@@ -1,4 +1,4 @@
-# Ubuntu-Server-Cookbook
+# Ubuntu Server Cookbook
 By PacktPublishing
 
 This is the code repository for [Ubuntu Server Cookbook](https://www.packtpub.com/networking-and-servers/ubuntu-server-cookbook?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785883064), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
