@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "Post commit hook started"
+WEBROOT=/var/www/git-hooks-demo
+TARBALL=/tmp/myapp.tar
+echo "Exporting repository contents"
+git archive master --format=tar --output $TARBALL
+mkdir $WEBROOT/html_new
+tar -xf $TARBALL -C $WEBROOT/html_new --strip-components 1
+echo “Backup existing setup”
+mv $WEBROOT/html $WEBROOT/backups/html-`date +%Y-%m-%d-%T`
+echo “Deploying latest code”
+mv $WEBROOT/html_new $WEBROOT/html
+exit 0
