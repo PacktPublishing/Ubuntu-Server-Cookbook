@@ -17,3 +17,7 @@ can use these services to test your setup.
 
 * [Instant Ubuntu](https://www.packtpub.com/networking-and-servers/instant-ubuntu-instant?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781783280872)
 * [Lync Server Cookbook](https://www.packtpub.com/networking-and-servers/lync-server-2013-cookbook?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781782173472)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785883064">https://packt.link/free-ebook/9781785883064 </a> </p>
